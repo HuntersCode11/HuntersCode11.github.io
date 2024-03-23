@@ -1,3 +1,3 @@
 # HuntersCode11.github.io
 
-<p><a href="/OnlineNewsArticle.html">Assignment</a></p>
+<p><a href="/index.html">Assignment</a></p>
